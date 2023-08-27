@@ -1,0 +1,15 @@
+experiment_dir: experiment_dir
+train_config:
+  dataset: mnist
+  optimizer_config:
+    name: sgd
+    arguments:
+      lr: 0.001
+      momentum: 0.05
+  batch_size: 64
+  epochs: 20
+  scheduler_config: null
+model_config:
+  name: simplenet
+metrics_n_batches: 400
+device: cpu
