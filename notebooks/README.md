@@ -17,7 +17,7 @@ The examples in this folder are notebooks that can be run in Google Colab.
 
 ## Using the Dashboard (Experimental)
 
-<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/main/notebooks/HPO-Ablation.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/main/notebooks/Dashboard.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
