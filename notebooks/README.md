@@ -1,13 +1,23 @@
 # ABLATOR Notebooks
 
+The examples in this folder are notebooks that can be run in Google Colab.
+
 ## Prototyping
 
-<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/6d79f47703b05f99655a717662f717d238f5dbfc/notebooks/Prototyping.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/main/notebooks/Getting-Started.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## HPO
+## HyperParameter Ablation Study
 
-<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/6d79f47703b05f99655a717662f717d238f5dbfc/notebooks/HPO.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/main/notebooks/HPO-Ablation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
+## Using the Dashboard (Experimental)
+
+<a target="_blank" href="https://colab.research.google.com/github/fostiropoulos/ablator-tutorials/blob/main/notebooks/HPO-Ablation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
